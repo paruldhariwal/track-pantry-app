@@ -1,2 +1,1 @@
-# pantry-tracker
-# pantry-tracker
+# track-pantry-app
